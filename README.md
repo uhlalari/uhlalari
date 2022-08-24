@@ -7,7 +7,7 @@ Estes são alguns dos meus apps:
 <img src="receitas.gif" aling="center" width="150">
 <img src="curriculo.gif" aling="center" width="150">
 <img src="me-pergunte.gif" aling="center" width="150">
-<img src="sorteio.gif" aling="center" width="150">
+
 </p>
 
 <!--<div align="center">
