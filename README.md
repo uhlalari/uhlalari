@@ -1,4 +1,15 @@
 ## Ei! Eu sou a Lari! 👋
+
+Estes são alguns dos meus apps: 
+<p>
+<img src="Fofoca-tech.gif" aling="center" width="150">
+<img src="app-onibus.gif" aling="center" width="150">
+<img src="receitas.gif" aling="center" width="150">
+<img src="curriculo.gif" aling="center" width="150">
+<img src="me-pergunte.gif" aling="center" width="150">
+<img src="sorteio.gif" aling="center" width="150">
+</p>
+
 <!--<div align="center">
  <a href="https://github.com/uhlalari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uhlalari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>-->
@@ -9,19 +20,6 @@
   <a href = "mailto:a.mercadologa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/larissa-ester" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-
-<p>
-<img src="Fofoca-tech.gif" aling="center" width="100">
-</p>
-
-<p>
-<img src="app-onibus.gif" aling="center" width="100">
-</p>
-
-<p>
-<img src="receitas.gif" aling="center" width="100">
-</p>
-
 
 <!--
 **uhlalari/uhlalari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
