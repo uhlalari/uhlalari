@@ -10,6 +10,19 @@
   <a href="https://www.linkedin.com/in/larissa-ester" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+<p>
+<img src="Fofoca-tech.gif" aling="center" width="100">
+</p>
+
+<p>
+<img src="app-onibus.gif" aling="center" width="100">
+</p>
+
+<p>
+<img src="receitas.gif" aling="center" width="100">
+</p>
+
+
 <!--
 **uhlalari/uhlalari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
