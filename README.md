@@ -1,6 +1,6 @@
 ## Ei! Eu sou a Lari! 👋
 
-Estes são alguns dos meus apps: 
+Estes são alguns dos meus apps android para celular: 
 <p>
 <img src="Fofoca-tech.gif" aling="center" width="150">
 <img src="app-onibus.gif" aling="center" width="150">
@@ -8,6 +8,10 @@ Estes são alguns dos meus apps:
 <img src="curriculo.gif" aling="center" width="150">
 <img src="me-pergunte.gif" aling="center" width="150">
 <br>
+ </p>
+
+Estes são alguns dos meus apps android para smartwatch: 
+<p>
 <img src="untitled.gif" width="150">
 <img src="receitas-relógio (1).gif" width="150">
 
