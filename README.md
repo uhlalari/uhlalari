@@ -2,6 +2,7 @@
 
 Estes são alguns dos meus apps android para celular: 
 <p>
+<img src="busca-frutas.gif.gif" aling="center" width="160">
 <img src="Fofoca-tech.gif" aling="center" width="150">
 <img src="app-onibus.gif" aling="center" width="150">
 <img src="receitas.gif" aling="center" width="150">
