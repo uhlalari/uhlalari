@@ -2,6 +2,8 @@
 
 Estes são alguns dos meus apps android para celular: 
 <p>
+<img src="aquario.gif" aling="center" width="150">
+<img src="fituai.gif" aling="center" width="150">
 <img src="ship.gif" aling="center" width="150">
 <img src="busca-frutas.gif.gif" aling="center" width="160">
 <img src="Fofoca-tech.gif" aling="center" width="150">
